@@ -24,4 +24,4 @@ This repo is provide info about how to work on git and what tools to use to lear
   
   ![fav image](https://www.cheatsheet.com/wp-content/uploads/2020/01/Kobe-Bryant-Gianna-Future-640x427.jpg)
  
- Image taken from[cheatsheet.com](https://www.cheatsheet.com/entertainment/kobe-bryant-was-making-huge-plans-for-giannas-future-days-before-their-tragic-deaths.html/)
+ Image taken from [cheatsheet.com](https://www.cheatsheet.com/entertainment/kobe-bryant-was-making-huge-plans-for-giannas-future-days-before-their-tragic-deaths.html/)
