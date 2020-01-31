@@ -1,43 +1,24 @@
-# Tarun-Sarpanjeri
-## about-me
+# Tarun-Sarpanjeri-about-me
 
-### Repository Links 
-[Github Repo](https://github.com/dexterstr/about-me)
+## Repository Links 
+- [Github Repo](https://github.com/dexterstr/about-me)
+- [Site](https://dexterstr.github.io/about-me/)
 
-[Site](https://dexterstr.github.io/about-me/)
+## About
+This repo is provide info about how to work on git and what tools to use to learn git.
+## Recommended tools
+- Github Desktop:It provides several collaboration features like  basic task management tools and also provides access control for every project.[Github](https://github.com/) account must be created to work on git.
+- A text editor.
+- Main language for working on github pages is [Markdown](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
-You can use the [editor on GitHub](https://github.com/dexterstr/about-me/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Recommended Resources
+1. [W3Schools.com](https://www.w3schools.com/html/default.asp)
+2. [Markdown Tutorial](https://www.markdowntutorial.com/)
+3. [Code Academy](https://www.codecademy.com/learn/paths/web-development)
+4. [Hackerrank](https://www.hackerrank.com/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dexterstr/about-me/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Contributors
+- Tarun Sarpanjeri
+  - Applied Computer Science
+  ![fav image](https://www.cheatsheet.com/wp-content/uploads/2020/01/Kobe-Bryant-Gianna-Future-640x427.jpg)
+  Image taken from[cheatsheet.com](https://www.cheatsheet.com/entertainment/kobe-bryant-was-making-huge-plans-for-giannas-future-days-before-their-tragic-deaths.html/)
