@@ -1,35 +1,25 @@
-
-
 body{
     
         background-color: lightgrey;
 }
       
- header {
-   background-image:
-   url("");
-background-size: 800px;
-
- }
+ 
  .searchbar{
    text-align: right;
 
  }
  
  .bgimg {
-  background-image: url("https://mdbootstrap.com/img/Photos/Horizontal/Nature/full page/img(11).jpg");
-  height: 100%;
+  
+  
   position: relative;
-  opacity: 0.85;
+  opacity: 1;
   background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed; /* fixed in viewport */
+ background-size: cover;
+  background-attachment: fixed; 
 }
 
 
-
- 
 
 .image{
   border-radius: 70%;
@@ -37,8 +27,8 @@ background-size: 800px;
 }
 article {
   
-padding:2em;
-margin:1px;
+
+
 }
 section{
   margin: 1em;
@@ -46,16 +36,21 @@ section{
   background-color: rgb(175, 230, 173);
   border-radius: 2em;
 }
-
+.icon-bar{
+  text-align: left;
+}
 aside{
     border-width: 50px;
-   
+  
+   color: rgb(0, 255, 255); 
+    mix-blend-mode: saturation;
 
-background-color: lightblue;
+
 }
 nav {
-  background-color: rgb(71, 170, 184);
+  background-color: rgb(75, 184, 71);
   text-align: center;
+ 
 
 }
 
@@ -68,10 +63,12 @@ nav {
 }
   
 
-
-h2,h3,h4{
+h2{
+color: rgba(0, 0, 0, 0.911);
+}
+h3,h4{
   
-    color: rgba(34, 226, 34, 0.911);
+    color: rgba(226, 34, 34, 0.911);
 }
 
 .tg  {border-collapse:collapse;border-spacing:0;}
