@@ -1,65 +1,76 @@
 
-*{
-    padding:0px;
-    margin:0px;
-}
+
 body{
     
         background-color: lightgrey;
+}
       
-      
+ header {
+   background-image:
+   url("https://venngage-wordpress.s3.amazonaws.com/uploads/2018/09/Colorful-Geometric-Simple-Background-Image.jpg");
+background-size: 800px;
+
+ }
+ .searchbar{
+   text-align: right;
+
+ }
+ 
+ .bgimg {
+  background-image: url("https://mdbootstrap.com/img/Photos/Horizontal/Nature/full page/img(11).jpg");
+  height: 100%;
+  position: relative;
+  opacity: 0.85;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed; /* fixed in viewport */
+}
+
+
+
+ 
+
+.image{
+  border-radius: 70%;
+  text-align: center;
 }
 article {
-
-border:1px solid black; 
+  
 padding:2em;
 margin:1px;
 }
 section{
-    margin:1em;
+  margin: 1em;
+  padding: 2rem;
+  background-color: rgb(175, 230, 173);
+  border-radius: 2em;
 }
+
 aside{
-    border: 1px solid blue;
-padding: 2em;
+    border-width: 50px;
+   
+
 background-color: lightblue;
 }
+nav {
+  background-color: rgb(71, 170, 184);
+  text-align: center;
 
-li {
-  float: left;
 }
 
-button1 {
-    background-color: rgb(219, 106, 53);
-    border: 3px rgba(30, 28, 187, 0.616);
-    
-    padding: 45px 32px;
-    text-align:right;
-    text-decoration: none;
-     
-    
-  }
-  button2 {
-    background-color: #4CAF50; /* Green */
-    border: none;
-    color: white;
-    padding: 15px 32px;
-    text-align: right;
-    text-decoration: none;
-    font-size: 16px;
-  }
-  button3 {
-    background-color: #4CAF50; /* Green */
-    border: none;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-  }
+.list {
+  display: inline-block;
+  font-size: large;
+  margin: 1em;
+  border-style: dashed solid;
+  padding:100 2px 0 2px;
+}
   
 
-h2,h3{
+
+h2,h3,h4{
+  
     color: rgba(34, 226, 34, 0.911);
 }
 
