@@ -19,7 +19,12 @@ body{
   background-attachment: fixed; 
 }
 
-
+.nameb{
+  color: #f00;
+    -webkit-filter: invert(100%);
+    filter: invert(100%);
+  
+}
 
 .image{
   border-radius: 70%;
@@ -49,7 +54,8 @@ aside{
 }
 nav {
   background-color: rgb(75, 184, 71);
-  text-align: center;
+  text-align: start;
+  
  
 
 }
@@ -61,7 +67,10 @@ nav {
   border-style: dashed solid;
   padding:100 2px 0 2px;
 }
-  
+  .first{
+    color: rgba(226, 34, 34, 0.911);
+    
+  }
 
 h2{
 color: rgba(0, 0, 0, 0.911);
