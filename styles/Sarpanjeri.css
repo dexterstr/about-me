@@ -30,11 +30,7 @@ body{
   border-radius: 70%;
   text-align: center;
 }
-article {
-  
 
-
-}
 section{
   margin: 1em;
   padding: 2rem;
@@ -56,8 +52,6 @@ nav {
   background-color: rgb(75, 184, 71);
   text-align: start;
   
- 
-
 }
 
 .list {
@@ -67,7 +61,7 @@ nav {
   border-style: dashed solid;
   padding:100 2px 0 2px;
 }
-  .first{
+  .first,.second,.sum{
     color: rgba(226, 34, 34, 0.911);
     
   }
