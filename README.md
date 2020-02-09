@@ -1,4 +1,7 @@
 # Tarun-Sarpanjeri-about-me
+## Module P2
+Background photo was taken by a friend of mine(Bheema).
+
 
 ## Repository Links 
 - [Github Repo](https://github.com/dexterstr/about-me)
